@@ -1,6 +1,6 @@
-# NOTAS
+NOTAS IMPORTANTES
 
-###evloção linguagem C
+evolução linguagem C
 
 	C
 	C++ c com orientação a objetos
@@ -16,7 +16,7 @@ ciclo para subir o program (sair da ide e fazer algo)
 ------------------------------------------------------------------------
 	
 	   
-###JRE vs JDK
+JRE vs JDK
 
 	lado usuario (JRE = java runtime environment)
 		
@@ -41,7 +41,8 @@ ciclo para subir o program (sair da ide e fazer algo)
 		IDE
 ------------------------------------------------------------------------
 
-###Camel Case no Java, regras
+
+Camel Case no Java, regras
 
 	classes => NovaClasse ------------------(as classes comecam com letra maiuscula)
 	atributos => corCarro ------------------(atributos comecam com letra minuscula)
